@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>I Have Too Many Ugly Useful Links</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+
+  <main class="app-container">
+
+    <header class="cmd-header">
+      <div class="window-controls">
+        <!-- <span class="dot dot-close"></span>
+        <span class="dot dot-min"></span>
+        <span class="dot dot-max"></span> -->
+        <div class="reset-pill" >
+          <h1 id="reset_btn" role="button"></h1>
+        </div>
+        <span class="spacer"></span>
+
+        
+        <!-- <span class="version-tag">v1.0</span> -->
+        <span class="app-title">UGLY LINKS</span>
+      </div>
+
+      <div class="input-island">
+        <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        <input
+          type="text"
+          id="cmd_input"
+          placeholder="Paste a link or search inventory..."
+          autocomplete="off"
+          spellcheck="false"
+        >
+      </div>
+    </header>
+
+    <section class="viewport">
+      <div id="links-container" class="links-list">
+
+        <!-- <div class="category-group" id="group_recent">
+          <span class="category-label">Recently Added</span>
+        </div> -->
+
+      </div>
+    </section>
+  </main>
+
+  <script src="popup.js"></script>
+</body>
+</html>
