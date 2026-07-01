@@ -25,13 +25,6 @@ git clone https://github.com/shaafyousaf/UglyLinks.git
 # chrome://extensions/ → Enable Developer Mode → Load Unpacked
 ```
 
-## Features
-
-- Save any URL, however ugly — local IPs, ports, internal domains, whatever
-- Search and filter as you type
-- Add the current tab in one click
-- Launch links straight from the toolbar popup
-
 ## Install
 
 Get it from the [Chrome Web Store](https://chromewebstore.google.com/detail/aohjhgogkcbgkdkpljpgeimpmdcdedhn), or build it yourself from source (see above).
