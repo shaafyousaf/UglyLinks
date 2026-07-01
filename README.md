@@ -12,7 +12,7 @@
 
 
 
-A free, open-source Chrome extension for saving and launching the URLs you can never remember — Proxmox nodes, Docker containers, internal dashboards, IP:port combos, and anything else your browser insists on "fixing." Built on Manifest V3. One click to launch, no more digging through bookmark folders.
+A free, open-source Chrome extension for saving and launching the URLs you can never remember like Proxmox nodes, Docker containers, internal dashboards, IP:port combos, and anything else your browser insists on "fixing." Built on Manifest V3. One click to launch, no more digging through bookmark folders.
 
 Built for homelabbers and devs drowning in internal tools, but works for any ugly local or internal URL.
 
